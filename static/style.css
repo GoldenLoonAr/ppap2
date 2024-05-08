@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(255, 180, 0);
+    text-align: center;
+    font-size: 200%;
+}
+
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20230521/pngtree-calm-capybara-resting-serenely-by-the-waterside-in-closeup-view-photo-image_52363034.jpg');
+    background-size: cover;
+}
+
+a:visited{
+    color: rgba(121, 60, 105, 0.774)
+}
+
+header{
+    color: rgba(101, 189, 46, 0.636);
+    font-size: 150%;
+}
